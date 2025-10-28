@@ -20,7 +20,7 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
   • React frontend + backend API for scheduling & client programs  
   • Bringing fitness + software together
 
-- <b>Aquarium Simulation (C++, wxWidgets)</b>  
+- <b>[Aquarium Simulation (C++, wxWidgets)](https://github.com/langme10/AquariumSimulation)</b>  
   • Physics-driven fish behavior + save/load support  
   • Object-oriented design & polymorphism
 
