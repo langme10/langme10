@@ -8,6 +8,10 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
 
 <h2>👨‍💻 Projects I'm Proud Of</h2>
 
+- <b>[Model Context Protocol: Server & Client](https://github.com/langme10/MCPServerAndClient)</b>  
+  • Built a custom MCP server and client in Python using structured messaging  
+  • Demonstrates how AI tools interact with external contexts and actions
+
 - <b>DataHub Automation + Testing (Python, gRPC, pytest)</b>  
   • Developed automated PLC-to-cloud data validation for embedded systems  
   • Stress + performance testing with WebSockets
