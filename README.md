@@ -12,11 +12,7 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
   • Built a custom MCP server and client in Python using structured messaging  
   • Demonstrates how AI tools interact with external contexts and actions
 
-- <b>DataHub Automation + Testing (Python, gRPC, pytest)</b>  
-  • Developed automated PLC-to-cloud data validation for embedded systems  
-  • Stress + performance testing with WebSockets
-
-- <b>Machine Learning Stock Prediction</b>  
+- <b>[Machine Learning Stock Prediction](https://github.com/langme10/StockPredictionML)</b>  
   • End-to-end ML modeling with visual dashboards  
   • Time-series forecasting & model evaluation
 
@@ -27,6 +23,10 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
 - <b>Aquarium Simulation (C++, wxWidgets)</b>  
   • Physics-driven fish behavior + save/load support  
   • Object-oriented design & polymorphism
+
+- <b>DataHub Automation + Testing (Python, gRPC, pytest)</b>  
+  • Developed automated PLC-to-cloud data validation for embedded systems  
+  • Stress + performance testing with WebSockets
 
 More on the way... 🚀
 
