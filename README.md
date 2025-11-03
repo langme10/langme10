@@ -28,6 +28,10 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
   • Developed automated PLC-to-cloud data validation for embedded systems  
   • Stress + performance testing with WebSockets
 
+- <b>[Portfolio Website (Python, Flask, HTML, CSS, Javascript)](https://homework-2-635239778337.us-central1.run.app/home)</b>  
+  • Designed and built a personal developer portfolio to showcase projects and skills  
+  • Implemented Flask backend with modular routes and clean component structure
+
 More on the way... 🚀
 
 ---
