@@ -16,7 +16,7 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
   • End-to-end ML modeling with visual dashboards  
   • Time-series forecasting & model evaluation
 
-- <b>Full-Stack Personal Training App</b> *(in progress)*  
+- <b>[Full-Stack Personal Training App](https://github.com/langme10/TrainerSync)</b> *(in progress)*  
   • React frontend + backend API for scheduling & client programs  
   • Bringing fitness + software together
 
