@@ -8,6 +8,10 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
 
 <h2>👨‍💻 Projects I'm Proud Of</h2>
 
+- <b>[TrainerSync Full-Stack Personal Training App](https://github.com/langme10/TrainerSync)</b> *(in progress)*  
+  • React frontend + backend API for scheduling & client programs  
+  • Bringing fitness + software together
+
 - <b>[Model Context Protocol: Server & Client](https://github.com/langme10/MCPServerAndClient)</b>  
   • Built a custom MCP server and client in Python using structured messaging  
   • Demonstrates how AI tools interact with external contexts and actions
@@ -15,10 +19,6 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
 - <b>[Machine Learning Stock Prediction](https://github.com/langme10/StockPredictionML)</b>  
   • End-to-end ML modeling with visual dashboards  
   • Time-series forecasting & model evaluation
-
-- <b>[Full-Stack Personal Training App](https://github.com/langme10/TrainerSync)</b> *(in progress)*  
-  • React frontend + backend API for scheduling & client programs  
-  • Bringing fitness + software together
 
 - <b>[Aquarium Simulation (C++, wxWidgets)](https://github.com/langme10/AquariumSimulation)</b>  
   • Physics-driven fish behavior + save/load support  
