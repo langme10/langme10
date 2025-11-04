@@ -8,7 +8,7 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
 
 <h2>👨‍💻 Projects I'm Proud Of</h2>
 
-- <b>[TrainerSync Full-Stack Personal Training App](https://github.com/langme10/TrainerSync)</b> *(in progress)*  
+- <b>[TrainerSync Full-Stack Personal Training App](https://github.com/langme10/TrainerSync)</b> *(in progress)*  [Link to Project](https://trainersync-937221154891.us-central1.run.app)
   • React frontend + backend API for scheduling & client programs  
   • Bringing fitness + software together
 
