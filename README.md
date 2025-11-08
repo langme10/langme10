@@ -12,6 +12,13 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
   • React frontend + backend API for scheduling & client programs  
   • Bringing fitness + software together
 
+- <b>[Assignment & Class Tracker (Android, Java)](https://github.com/langme10/TodoApp)</b> 
+  A mobile app built for CSE 476 that helps students stay on top of coursework while also navigating campus.  
+  • Create, edit, and delete assignment tasks with due dates  
+  • Store classroom locations and view them on an interactive map  
+  • Uses GPS + Google Maps API to show your current position and route toward selected buildings  
+  • Built using Java, RecyclerView, SQLite, and Android Location Services
+
 - <b>[Model Context Protocol: Server & Client](https://github.com/langme10/MCPServerAndClient)</b>  
   • Built a custom MCP server and client in Python using structured messaging  
   • Demonstrates how AI tools interact with external contexts and actions
