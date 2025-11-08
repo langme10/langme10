@@ -12,7 +12,7 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
   • React frontend + backend API for scheduling & client programs  
   • Bringing fitness + software together
 
-- <b>[Assignment & Class Tracker (Android, Java)](https://github.com/langme10/TodoApp)</b> 
+- <b>[Assignment & Class Tracker (Android, Java)](https://github.com/langme10/TodoApp)</b>   
   A mobile app built for CSE 476 that helps students stay on top of coursework while also navigating campus.  
   • Create, edit, and delete assignment tasks with due dates  
   • Store classroom locations and view them on an interactive map  
