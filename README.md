@@ -53,6 +53,7 @@ More on the way... 🚀
 
 <h2>⚡ Tech Stack</h2>
 
+**Certifications:** Microsoft Azure Fundamentals (AZ-900)    
 **Languages:** Python, C++, Java, JavaScript, SQL, HTML/CSS  
 **Frameworks/Tech:** React, Node.js, Docker, Flask, Firebase, Google cloud deployment  
 **ML/AI:** TensorFlow, PyTorch, Keras  
