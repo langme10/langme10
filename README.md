@@ -19,9 +19,11 @@ Currently exploring backend + AI projects, testing frameworks, and clean system 
   • Uses GPS + Google Maps API to show your current position and route toward selected buildings  
   • Built using Java, RecyclerView, SQLite, and Android Location Services
 
-- <b>[AI Property and Casualty (P&C) Insurance assistant]([https://github.com/langme10/MCPServerAndClient](https://github.com/langme10/UnderwritingAndClaimsAssitant))</b>  
-  • Built a custom MCP server and client in Python using structured messaging  
-  • Demonstrates how AI tools interact with external contexts and actions
+- <b>[AI Property and Casualty (P&C) Insurance assistant]([https://github.com/langme10/MCPServerAndClient)</b>  
+A lightweight GenAI web app that extracts structured insights from P&C claim narratives and underwriting reports.
+• Generates claim summaries, risk assessments, and professional follow-up emails
+• Built with Flask + custom-designed prompts for insurance workflows
+• Demonstrates applied GenAI, prompt engineering, and UI/UX polish
 
 - <b>[Machine Learning Stock Prediction](https://github.com/langme10/StockPredictionML)</b>  
   • End-to-end ML modeling with visual dashboards  
